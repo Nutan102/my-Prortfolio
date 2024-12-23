@@ -1,0 +1,88 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:black;
+}
+#navbar{
+    background-color:blue;
+    padding: 20px;
+    text-align: center;
+}
+
+a{
+    background-color: blue;
+    color:red;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+marquee{
+    text-transform: uppercase;
+    padding: 10px;
+    color: aqua;
+}
+
+.details{
+    text-align: center;
+    color: red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+   
+}
+
+.detail2{
+
+    color:rgb(170, 17, 17);
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.certifi{
+    text-align: center;
+    color:blue;
+    padding: 25px;
+    text-transform: uppercase;
+}
+.cimg{
+    display: flex;
+    height: 300px;
+    width: 250px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+.Q
+{
+    text-align: center;
+    color:blue;
+    padding: 25px;
+    text-transform: uppercase;
+}
+.qualifi{
+    text-align: center;
+    color: red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.skills{
+    text-align: center;
+    color:blue;
+    padding: 25px;
+    text-transform: uppercase;
+}
+.skill1{
+    text-align: center;
+    color: red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.contact{
+    text-align: center;
+    color:blue;
+    padding: 25px;
+    text-transform: uppercase;
+}
+.cont1{
+    text-align: center;
+    color: red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
